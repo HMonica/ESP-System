@@ -32,8 +32,8 @@
             this.MinimizeButton = new System.Windows.Forms.Button();
             this.FormLabel = new System.Windows.Forms.Label();
             this.ExitButton = new System.Windows.Forms.Button();
-            this.TextDisplay2 = new System.Windows.Forms.TextBox();
-            this.TextDisplay = new System.Windows.Forms.TextBox();
+            this.passwordText = new System.Windows.Forms.TextBox();
+            this.usernameText = new System.Windows.Forms.TextBox();
             this.button10 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
@@ -102,21 +102,21 @@
             this.ExitButton.UseVisualStyleBackColor = true;
             this.ExitButton.Click += new System.EventHandler(this.ExitButton_Click);
             // 
-            // TextDisplay2
+            // passwordText
             // 
-            this.TextDisplay2.Cursor = System.Windows.Forms.Cursors.No;
-            this.TextDisplay2.Location = new System.Drawing.Point(166, 106);
-            this.TextDisplay2.Name = "TextDisplay2";
-            this.TextDisplay2.Size = new System.Drawing.Size(621, 20);
-            this.TextDisplay2.TabIndex = 15;
+            this.passwordText.Cursor = System.Windows.Forms.Cursors.No;
+            this.passwordText.Location = new System.Drawing.Point(166, 106);
+            this.passwordText.Name = "passwordText";
+            this.passwordText.Size = new System.Drawing.Size(621, 20);
+            this.passwordText.TabIndex = 15;
             // 
-            // TextDisplay
+            // usernameText
             // 
-            this.TextDisplay.Cursor = System.Windows.Forms.Cursors.No;
-            this.TextDisplay.Location = new System.Drawing.Point(167, 63);
-            this.TextDisplay.Name = "TextDisplay";
-            this.TextDisplay.Size = new System.Drawing.Size(621, 20);
-            this.TextDisplay.TabIndex = 13;
+            this.usernameText.Cursor = System.Windows.Forms.Cursors.No;
+            this.usernameText.Location = new System.Drawing.Point(167, 63);
+            this.usernameText.Name = "usernameText";
+            this.usernameText.Size = new System.Drawing.Size(621, 20);
+            this.usernameText.TabIndex = 13;
             // 
             // button10
             // 
@@ -262,8 +262,8 @@
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.LoginSubmitButton);
             this.Controls.Add(this.FormHeader);
-            this.Controls.Add(this.TextDisplay2);
-            this.Controls.Add(this.TextDisplay);
+            this.Controls.Add(this.passwordText);
+            this.Controls.Add(this.usernameText);
             this.Controls.Add(this.button10);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button7);
@@ -290,8 +290,8 @@
         private System.Windows.Forms.Button MinimizeButton;
         private System.Windows.Forms.Label FormLabel;
         private System.Windows.Forms.Button ExitButton;
-        private System.Windows.Forms.TextBox TextDisplay2;
-        private System.Windows.Forms.TextBox TextDisplay;
+        private System.Windows.Forms.TextBox passwordText;
+        private System.Windows.Forms.TextBox usernameText;
         private System.Windows.Forms.Button button10;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button7;

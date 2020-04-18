@@ -32,3 +32,37 @@ C:\Users\fille\Desktop\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\Da
 C:\Users\fille\Desktop\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.StoreSales.resources
 C:\Users\fille\Desktop\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.SalesUpdateConfirmation.resources
 C:\Users\fille\Desktop\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.csprojAssemblyReference.cache
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\DataEntryTestApp.exe.config
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\DataEntryTestApp.exe
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\DataEntryTestApp.pdb
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\Google.Protobuf.dll
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\BouncyCastle.Crypto.dll
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\Ubiety.Dns.Core.dll
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\Renci.SshNet.dll
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\MySql.Data.xml
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.csprojAssemblyReference.cache
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.BaseForm.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.EmployeeInitializer.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.EventInitializer.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.ItemInitializer.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.ItemSales.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.SalesCompleteMessage.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.StoreSales.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.Form.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.EventViewer.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.Form1.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.GetForm.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.LoginForm.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.ModeSelection.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.PostForm.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.StoreViewer.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.ItemViewer.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.ManagerViewer.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.Properties.Resources.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.StoreInitialize.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.SalesUpdateConfirmation.resources
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.csproj.GenerateResource.cache
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.csproj.CopyComplete
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.exe
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\obj\Debug\DataEntryTestApp.pdb
+D:\Facultate\Second Year\Second Term\Software Engineering\Teamproject\Moni\ESP-System\DataEntryTestApp\DataEntryTestApp\bin\Debug\MySql.Data.dll

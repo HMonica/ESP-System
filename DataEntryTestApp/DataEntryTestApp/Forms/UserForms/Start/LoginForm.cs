@@ -39,6 +39,14 @@ namespace DataEntryTestApp
         }
         private void LoginSubmitButton_Click(object sender, EventArgs e)
         {
+            DBConnect obj = new DBConnect();
+            string username = usernameText.Text;
+            string password = passwordText.Text;
+            if (username != "" && password != "")
+            {
+                string login = "'" + username + "', '" + password + "'";
+                obj.Insert("Account", "Username, Password", login);
+            }
             if (true /*server confirms loggin details */)
             {
                 this.Hide();

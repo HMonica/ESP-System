@@ -25,12 +25,12 @@ namespace DataEntryTestApp
         public void Initialize()
         {
             //add the server ip
-            server = "51.143.180.193";
+            server = "127.0.0.1";
             //add server name
-            database = "SoftwareEngineeringDB";
+            database = "softwareengineeringdb";
             //uid and password are the server MySQL user and pass
             uid = "root";
-            password = "SoftwareEngineeringGr2!";
+            password = "";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
             database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
@@ -85,7 +85,7 @@ namespace DataEntryTestApp
         //Insert statement
         public void Insert(string tableName, string column, string data)
         {
-            string query = "INSERT INTO " + tableName + " (" + column + ") VALUES (" + data + ")";
+            string query = "INSERT INTO " + tableName + " (" + column + ") VALUES ("+ data +")";
             if (this.OpenConnection() == true)
             {
                 MySqlCommand cmd = new MySqlCommand(query, connection);
